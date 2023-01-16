@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/77XPobP3eds9lfxgXAcl4v/mbFX9Q6b2bhmWXHCkcsog8StV4HQmtCsBkjBqV0msjzTc/J0/KYFh4J5MNZUQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\GameCenter\\source\\repos\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GameCenter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GameCenter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
